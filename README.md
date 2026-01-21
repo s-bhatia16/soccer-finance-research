@@ -33,6 +33,6 @@ This project demonstrates the ability to:
 ## Author
 Siddhant Bhatia
 Mathematical Studies (Honours), University of Waterloo
-Email: siddhantbhatia2002@gmail.com
+Email: s37bhati@uwaterloo.ca
 
 Last updated: July 2022
